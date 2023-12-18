@@ -33,7 +33,7 @@ header {
 header h1{ 
 	font-size: 2.5rem;
 	font-weight: 300;
-	color: var(--grey);
+	color: var(--light);
 	margin-bottom: 1rem;
 }
 
@@ -67,7 +67,7 @@ input, button {
 	font-size: 1.25rem;
 	font-weight: 700;
 	/* background-image: linear-gradient(to right, var(--pink), var(--purple)); */
-    background-color: #C70039;
+    background-color: #ffffff;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	cursor: pointer;
@@ -96,7 +96,7 @@ main {
 .task-list h2 {
 	font-size: 1.5rem;
 	font-weight: 300;
-	color: var(--grey);
+	color: var(--light);
 	margin-bottom: 1rem;
 }
 
@@ -149,7 +149,7 @@ main {
 
 .task .actions .edit {
 	/* background-image: linear-gradient(to right, var(--pink), var(--purple)); */
-    background-color: #A8A196;
+    background-color: #cbda96;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
